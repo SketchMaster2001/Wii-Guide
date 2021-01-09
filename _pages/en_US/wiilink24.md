@@ -14,8 +14,8 @@ To get support on all issues relating this tutorial and service, join the [WiiLi
 
 * An SD card or USB drive
 * A Wii with an Internet connection
-* A computer
-* [WiiLink24 Patcher (Windows only)](https://github.com/WiiLink24/WiiLink24-Patcher/releases)
+* A Windows or Unix based computer
+* [WiiLink24 Patcher](https://github.com/WiiLink24/WiiLink24-Patcher/releases)
 
 #### Instructions
 
@@ -24,11 +24,11 @@ To get support on all issues relating this tutorial and service, join the [WiiLi
 [If you want to see detailed instructions on how to install the WADs, click here!](wiimodlite)
 {: .notice--info}
 
-1. Download the required files based on your OS. On Windows, run `WiiLink24Patcher.bat`.
+1. Download the required files based on your OS. On Windows, run `WiiLink24Patcher.bat`. On Unix systems, go to terminal and type sh, then drag `WiiLink24PatcherUnix.sh` into the terminal and press enter.
 2. Press 1 to choose "`Start`" and confirm your selection by pressing `ENTER`.
 3. For this guide, choose "`Install WiiLink24 on your Wii`"
 4. Select your region.
-5. Connect the SD Card or USB Drive to your computer and select "`1`".
+5. If you can, connect the SD Card or USB Drive to your computer and select "`1`".
 6. If your device was detected successfully, select "`1`". If not, make sure there's a folder called `apps` on your SD Card or USB Device and try again.
 7. Be patient...
 8. Once it's done, you can safely close the patcher. All of the files are ready on your SD Card.
