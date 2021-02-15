@@ -1,1 +1,2 @@
 Sitemap: https://wii.guide/sitemap.xml
+#Finally got write access
